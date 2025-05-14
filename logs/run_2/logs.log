@@ -1,0 +1,8 @@
+{"event": "init file logger", "level": "info", "timestamp": "2025-01-29T15:50:58.308026Z"}
+{"module": "Webcam Module", "event": "init", "level": "info", "timestamp": "2025-01-29T15:50:58.319748Z"}
+{"module": "Face Recognizer", "event": "init", "level": "info", "timestamp": "2025-01-29T15:50:58.439203Z"}
+{"module": "Debug Module", "event": "init", "level": "info", "timestamp": "2025-01-29T15:50:58.439203Z"}
+{"module": "Webcam Module", "event": "prepare_run", "level": "info", "timestamp": "2025-01-29T15:50:58.440205Z"}
+{"module": "Face Recognizer", "event": "prepare_run", "level": "info", "timestamp": "2025-01-29T15:50:58.462204Z"}
+{"module": "Debug Module", "event": "setup", "level": "info", "timestamp": "2025-01-29T15:50:58.462204Z"}
+{"module": "Debug Module", "event": "prepare_run", "level": "info", "timestamp": "2025-01-29T15:50:58.463205Z"}

@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./retico-vision",
+        "./retcio-facedetection",
+        "./retico-facedetection",
+        "./retico-whisperasr"
+    ]
+}
