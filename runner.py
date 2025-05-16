@@ -29,10 +29,7 @@ debug = DebugModule()
 
 mic.subscribe(asr)
 asr.subscribe(debug)
-print(mic.next_modules)
-print(mic.previous_modules)
-print(asr.next_modules)
-print(asr.previous_modules)
+mic.subscribe(debug)
 
 mic.run()
 asr.run()
