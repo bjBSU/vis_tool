@@ -1,0 +1,17 @@
+{"event": "init file logger", "level": "info", "timestamp": "2025-05-24T00:27:19.687501Z"}
+{"module": "Microphone Module", "event": "init", "level": "info", "timestamp": "2025-05-24T00:27:19.712499Z"}
+{"module": "Whipser ASR Module", "event": "init", "level": "info", "timestamp": "2025-05-24T00:27:19.909236Z"}
+{"module": "Debug Module", "event": "init", "level": "info", "timestamp": "2025-05-24T00:27:21.045460Z"}
+{"module": "Microphone Module", "event": "setup", "level": "info", "timestamp": "2025-05-24T00:27:21.045460Z"}
+{"module": "Microphone Module", "event": "prepare_run", "level": "info", "timestamp": "2025-05-24T00:27:26.239045Z"}
+{"module": "Whipser ASR Module", "event": "setup", "level": "info", "timestamp": "2025-05-24T00:27:26.239045Z"}
+{"module": "Debug Module", "event": "setup", "level": "info", "timestamp": "2025-05-24T00:27:31.255622Z"}
+{"module": "Microphone Module", "iuid": "132547655205:0", "previous_iu": null, "grounded_in": null, "event": "create_iu", "level": "info", "timestamp": "2025-05-24T00:27:31.294418Z"}
+{"module": "Debug Module", "event": "prepare_run", "level": "info", "timestamp": "2025-05-24T00:27:36.269906Z"}
+{"module": "Microphone Module", "first_iuid": "132547655205:0", "first_iu_created_at": "2025-05-23T17:27:31.294418", "last_iuid": "132547655205:0", "last_iu_created_at": "2025-05-23T17:27:31.294418", "event": "append UM", "level": "info", "timestamp": "2025-05-24T00:27:36.299456Z"}
+{"module": "Whipser ASR Module", "event": "process_update", "level": "info", "timestamp": "2025-05-24T00:27:36.299456Z"}
+{"module": "Debug Module", "event": "process_update", "level": "info", "timestamp": "2025-05-24T00:27:41.297654Z"}
+{"module": "Microphone Module", "iuid": "132547655205:1", "previous_iu": "132547655205:0", "grounded_in": null, "event": "create_iu", "level": "info", "timestamp": "2025-05-24T00:27:41.315315Z"}
+{"module": "Microphone Module", "first_iuid": "132547655205:1", "first_iu_created_at": "2025-05-23T17:27:41.315315", "last_iuid": "132547655205:1", "last_iu_created_at": "2025-05-23T17:27:41.315315", "first_previous_iu_created_at": "2025-05-23T17:27:31.294418", "last_previous_iu_created_at": "2025-05-23T17:27:31.294418", "event": "append UM", "level": "info", "timestamp": "2025-05-24T00:27:46.323211Z"}
+{"module": "Whipser ASR Module", "event": "process_update", "level": "info", "timestamp": "2025-05-24T00:27:46.323211Z"}
+{"module": "Debug Module", "event": "process_update", "level": "info", "timestamp": "2025-05-24T00:27:46.323211Z"}

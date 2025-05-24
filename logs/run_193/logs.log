@@ -1,0 +1,5 @@
+{"event": "init file logger", "level": "info", "timestamp": "2025-05-23T23:56:26.400742Z"}
+{"module": "Microphone Module", "event": "init", "level": "info", "timestamp": "2025-05-23T23:56:26.437369Z"}
+{"module": "Whipser ASR Module", "event": "init", "level": "info", "timestamp": "2025-05-23T23:56:26.613915Z"}
+{"module": "Debug Module", "event": "init", "level": "info", "timestamp": "2025-05-23T23:56:28.267576Z"}
+{"module": "Microphone Module", "event": "setup", "level": "info", "timestamp": "2025-05-23T23:56:28.268575Z"}
